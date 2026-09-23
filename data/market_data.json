@@ -1,29 +1,32 @@
 {
-  "updated_at": "2026-09-23T16:32:30.412081+00:00",
+  "updated_at": "2026-09-23T17:06:07.217952+00:00",
   "items": [
     {
       "name": "GOLD",
       "symbol": "GC=F",
       "displaySymbol": "GOLD",
       "currency": "USD",
-      "price": 4319.5,
-      "changePercent": -2.3819747338922834
+      "price": 4319.6,
+      "changePercent": -2.379714795814578,
+      "source": "Yahoo"
     },
     {
       "name": "SILVER",
       "symbol": "SI=F",
       "displaySymbol": "SILVER",
       "currency": "USD",
-      "price": 65.065,
-      "changePercent": -2.240218763146823
+      "price": 64.955,
+      "changePercent": -2.4054931185768362,
+      "source": "Yahoo"
     },
     {
       "name": "COPPER",
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 6.768,
-      "changePercent": 2.312925170068021
+      "price": 6.753,
+      "changePercent": 2.086167800453513,
+      "source": "Yahoo"
     },
     {
       "name": "ZINC",
@@ -31,7 +34,8 @@
       "displaySymbol": "ZINC",
       "currency": "USD",
       "price": 4050.0,
-      "changePercent": -3.4219625611064743
+      "changePercent": -3.4219625611064743,
+      "source": "Yahoo"
     },
     {
       "name": "LEAD",
@@ -39,7 +43,8 @@
       "displaySymbol": "LEAD",
       "currency": "USD",
       "price": null,
-      "changePercent": null
+      "changePercent": null,
+      "source": null
     },
     {
       "name": "MOLYBDENUM",
@@ -47,7 +52,8 @@
       "displaySymbol": "MOLYBDENUM",
       "currency": "USD",
       "price": null,
-      "changePercent": null
+      "changePercent": null,
+      "source": null
     },
     {
       "name": "COAL",
@@ -55,7 +61,8 @@
       "displaySymbol": "COAL",
       "currency": "USD",
       "price": 104.75,
-      "changePercent": 8.324715615305065
+      "changePercent": 8.324715615305065,
+      "source": "Yahoo"
     },
     {
       "name": "NICKEL",
@@ -63,23 +70,26 @@
       "displaySymbol": "NICKEL",
       "currency": "USD",
       "price": null,
-      "changePercent": null
+      "changePercent": null,
+      "source": null
     },
     {
       "name": "Outcrop Silver",
-      "symbol": "OCG.V",
-      "displaySymbol": "TSXV: OCG",
+      "symbol": "OCG.TO",
+      "displaySymbol": "TSX: OCG",
       "currency": "CAD",
-      "price": null,
-      "changePercent": null
+      "price": 0.335,
+      "changePercent": 4.687500000000004,
+      "source": "Yahoo"
     },
     {
       "name": "Collective Mining",
       "symbol": "CNL",
       "displaySymbol": "NYSE: CNL",
       "currency": "USD",
-      "price": 13.025,
-      "changePercent": 6.0667752442996825
+      "price": 12.96,
+      "changePercent": 5.537459283387634,
+      "source": "Yahoo"
     },
     {
       "name": "Orosur Mining",
@@ -87,7 +97,8 @@
       "displaySymbol": "TSXV: OMI",
       "currency": "CAD",
       "price": 0.295,
-      "changePercent": -20.270270270270274
+      "changePercent": -20.270270270270274,
+      "source": "Yahoo"
     },
     {
       "name": "Max Resource",
@@ -95,23 +106,26 @@
       "displaySymbol": "TSXV: MAX",
       "currency": "CAD",
       "price": 0.225,
-      "changePercent": 2.2727272727272747
+      "changePercent": 2.2727272727272747,
+      "source": "Yahoo"
     },
     {
       "name": "Quimbaya Gold",
       "symbol": "QIM.CN",
       "displaySymbol": "CSE: QIM",
       "currency": "CAD",
-      "price": 0.4,
-      "changePercent": 14.285714285714299
+      "price": 0.395,
+      "changePercent": 12.85714285714287,
+      "source": "Yahoo"
     },
     {
       "name": "Tiger Gold",
       "symbol": "TIGR.V",
       "displaySymbol": "TSXV: TIGR",
       "currency": "CAD",
-      "price": 0.73,
-      "changePercent": -1.3513513513513526
+      "price": 0.745,
+      "changePercent": 0.6756756756756763,
+      "source": "Yahoo"
     },
     {
       "name": "Royal Road Minerals",
@@ -119,47 +133,53 @@
       "displaySymbol": "TSXV: RYR",
       "currency": "CAD",
       "price": 0.2,
-      "changePercent": 5.263157894736847
+      "changePercent": 5.263157894736847,
+      "source": "Yahoo"
     },
     {
       "name": "Andina Copper",
       "symbol": "ANDC.V",
       "displaySymbol": "TSXV: ANDC",
       "currency": "CAD",
-      "price": 1.3,
-      "changePercent": 7.438016528925627
+      "price": 1.29,
+      "changePercent": 6.61157024793389,
+      "source": "Yahoo"
     },
     {
       "name": "Copper Giant Resources",
       "symbol": "CGNT.V",
       "displaySymbol": "TSXV: CGNT",
       "currency": "CAD",
-      "price": 1.32,
-      "changePercent": 15.789473684210542
+      "price": 1.33,
+      "changePercent": 16.666666666666682,
+      "source": "Yahoo"
     },
     {
       "name": "Terra Rossa Gold",
       "symbol": "TRR.V",
       "displaySymbol": "TSXV: TRR",
       "currency": "CAD",
-      "price": 0.355,
-      "changePercent": 10.937499999999991
+      "price": 0.36,
+      "changePercent": 12.499999999999993,
+      "source": "Yahoo"
     },
     {
       "name": "Mineros",
       "symbol": "MSA.TO",
       "displaySymbol": "TSX: MSA",
       "currency": "CAD",
-      "price": 9.73,
-      "changePercent": 9.572072072072068
+      "price": 9.675,
+      "changePercent": 8.952702702702702,
+      "source": "Yahoo"
     },
     {
       "name": "Aris Mining",
       "symbol": "ARIS.TO",
       "displaySymbol": "TSX: ARIS",
       "currency": "CAD",
-      "price": 26.41,
-      "changePercent": 3.7313432835820866
+      "price": 26.4,
+      "changePercent": 3.6920659858601637,
+      "source": "Yahoo"
     },
     {
       "name": "Soma Gold",
@@ -167,23 +187,26 @@
       "displaySymbol": "TSXV: SOMA",
       "currency": "CAD",
       "price": 0.74,
-      "changePercent": 8.823529411764696
+      "changePercent": 8.823529411764696,
+      "source": "Yahoo"
     },
     {
       "name": "AngloGold Ashanti",
       "symbol": "AU",
       "displaySymbol": "NYSE: AU",
       "currency": "USD",
-      "price": 98.88,
-      "changePercent": -0.862241828754762
+      "price": 98.44,
+      "changePercent": -1.303388810908359,
+      "source": "Yahoo"
     },
     {
       "name": "Glencore",
       "symbol": "GLNCY",
       "displaySymbol": "OTC: GLNCY",
       "currency": "USD",
-      "price": 14.58,
-      "changePercent": -5.016286644951137
+      "price": 14.56,
+      "changePercent": -5.146579804560255,
+      "source": "Yahoo"
     },
     {
       "name": "Zijin Mining",
@@ -191,7 +214,8 @@
       "displaySymbol": "HKEX: 2899",
       "currency": "HKD",
       "price": 33.58,
-      "changePercent": -2.440441603718778
+      "changePercent": -2.440441603718778,
+      "source": "Yahoo"
     },
     {
       "name": "South32",
@@ -199,7 +223,8 @@
       "displaySymbol": "ASX: S32",
       "currency": "AUD",
       "price": 4.91,
-      "changePercent": -1.9960079840319291
+      "changePercent": -1.9960079840319291,
+      "source": "Yahoo"
     },
     {
       "name": "Denarius Metals",
@@ -207,7 +232,8 @@
       "displaySymbol": "Cboe CA: DMET",
       "currency": "CAD",
       "price": 0.62,
-      "changePercent": 0.0
+      "changePercent": 0.0,
+      "source": "Yahoo"
     }
   ]
 }
