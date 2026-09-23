@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-23T18:34:09.353176+00:00",
+  "updated_at": "2026-09-23T19:29:24.911886+00:00",
   "items": [
     {
       "name": "GOLD",
       "symbol": "GC=F",
       "displaySymbol": "GOLD",
       "currency": "USD",
-      "price": 4324.5,
-      "changePercent": -2.26897783000745,
+      "price": 4322.0,
+      "changePercent": -2.3254762819498667,
       "source": "Yahoo"
     },
     {
@@ -15,8 +15,8 @@
       "symbol": "SI=F",
       "displaySymbol": "SILVER",
       "currency": "USD",
-      "price": 65.045,
-      "changePercent": -2.270268645952274,
+      "price": 64.905,
+      "changePercent": -2.4806178255904747,
       "source": "Yahoo"
     },
     {
@@ -24,8 +24,8 @@
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 6.753,
-      "changePercent": 2.086167800453513,
+      "price": 6.766,
+      "changePercent": 2.2826908541194224,
       "source": "Yahoo"
     },
     {
@@ -78,8 +78,8 @@
       "symbol": "OCG.TO",
       "displaySymbol": "TSX: OCG",
       "currency": "CAD",
-      "price": 0.335,
-      "changePercent": 4.687500000000004,
+      "price": 0.333,
+      "changePercent": 4.0625000000000036,
       "source": "Yahoo"
     },
     {
@@ -87,8 +87,8 @@
       "symbol": "ATY.V",
       "displaySymbol": "TSXV: ATY",
       "currency": "CAD",
-      "price": 0.23,
-      "changePercent": 9.523809523809533,
+      "price": 0.235,
+      "changePercent": 11.904761904761903,
       "source": "Yahoo"
     },
     {
@@ -96,8 +96,8 @@
       "symbol": "CNL",
       "displaySymbol": "NYSE: CNL",
       "currency": "USD",
-      "price": 13.29,
-      "changePercent": 8.224755700325732,
+      "price": 13.255,
+      "changePercent": 7.939739413680794,
       "source": "Yahoo"
     },
     {
@@ -123,8 +123,8 @@
       "symbol": "QIM.CN",
       "displaySymbol": "CSE: QIM",
       "currency": "CAD",
-      "price": 0.4,
-      "changePercent": 14.285714285714299,
+      "price": 0.395,
+      "changePercent": 12.85714285714287,
       "source": "Yahoo"
     },
     {
@@ -132,8 +132,8 @@
       "symbol": "TIGR.V",
       "displaySymbol": "TSXV: TIGR",
       "currency": "CAD",
-      "price": 0.74,
-      "changePercent": 0.0,
+      "price": 0.745,
+      "changePercent": 0.6756756756756763,
       "source": "Yahoo"
     },
     {
@@ -141,8 +141,8 @@
       "symbol": "RYR.V",
       "displaySymbol": "TSXV: RYR",
       "currency": "CAD",
-      "price": 0.2,
-      "changePercent": 5.263157894736847,
+      "price": 0.195,
+      "changePercent": 2.6315789473684235,
       "source": "Yahoo"
     },
     {
@@ -168,8 +168,8 @@
       "symbol": "TRR.V",
       "displaySymbol": "TSXV: TRR",
       "currency": "CAD",
-      "price": 0.36,
-      "changePercent": 12.499999999999993,
+      "price": 0.37,
+      "changePercent": 15.624999999999996,
       "source": "Yahoo"
     },
     {
@@ -177,8 +177,8 @@
       "symbol": "MSA.TO",
       "displaySymbol": "TSX: MSA",
       "currency": "CAD",
-      "price": 9.55,
-      "changePercent": 7.545045045045043,
+      "price": 9.66,
+      "changePercent": 8.783783783783775,
       "source": "Yahoo"
     },
     {
@@ -186,8 +186,8 @@
       "symbol": "ARIS.TO",
       "displaySymbol": "TSX: ARIS",
       "currency": "CAD",
-      "price": 26.58,
-      "changePercent": 4.399057344854664,
+      "price": 26.55,
+      "changePercent": 4.281225451688924,
       "source": "Yahoo"
     },
     {
@@ -204,8 +204,8 @@
       "symbol": "AU",
       "displaySymbol": "NYSE: AU",
       "currency": "USD",
-      "price": 98.875,
-      "changePercent": -0.8672548626428664,
+      "price": 98.872,
+      "changePercent": -0.870262682975732,
       "source": "Yahoo"
     },
     {
@@ -213,8 +213,8 @@
       "symbol": "GLNCY",
       "displaySymbol": "OTC: GLNCY",
       "currency": "USD",
-      "price": 14.55,
-      "changePercent": -5.211726384364814,
+      "price": 14.54,
+      "changePercent": -5.276872964169384,
       "source": "Yahoo"
     },
     {
