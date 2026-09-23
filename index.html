@@ -34,7 +34,7 @@ const MARKET_FALLBACK = [
  ['Zijin Mining','2899.HK','HKD'],['South32','S32.AX','AUD'],['Denarius Metals','DNRSF','USD']
 ];
 function money(v,c){if(v===null||v===undefined||v===''||!Number.isFinite(Number(v)))return '—';v=Number(v);const p=Math.abs(v)>=100?2:Math.abs(v)>=10?2:3;const s={USD:'US$',CAD:'C$',HKD:'HK$',AUD:'A$'}[c]||'';return s+Number(v).toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:p})}
-function tickerItem(x){const ch=(x.changePercent===null||x.changePercent===undefined||x.changePercent==='')?NaN:Number(x.changePercent);const cls=!isFinite(ch)?'ticker-flat':ch>0?'ticker-up':ch<0?'ticker-down':'ticker-flat';const arrow=!isFinite(ch)?'':ch>0?'▲':ch<0?'▼':'•';return `<span class="ticker-item"><span class="ticker-name">${esc(x.name)}</span><span class="ticker-symbol">${esc(x.displaySymbol||x.symbol)}</span><span class="ticker-price">${money(x.price,x.currency)}</span><span class="${cls}">${arrow}${isFinite(ch)?Math.abs(ch).toFixed(2)+'%':''}</span></span>`}
+function tickerItem(x){if(x.name==='Outcrop Silver'){x={...x,symbol:'OCG.TO',displaySymbol:'TSX: OCG',currency:'CAD'};}const ch=(x.changePercent===null||x.changePercent===undefined||x.changePercent==='')?NaN:Number(x.changePercent);const cls=!isFinite(ch)?'ticker-flat':ch>0?'ticker-up':ch<0?'ticker-down':'ticker-flat';const arrow=!isFinite(ch)?'':ch>0?'▲':ch<0?'▼':'•';return `<span class="ticker-item"><span class="ticker-name">${esc(x.name)}</span><span class="ticker-symbol">${esc(x.displaySymbol||x.symbol)}</span><span class="ticker-price">${money(x.price,x.currency)}</span><span class="${cls}">${arrow}${isFinite(ch)?Math.abs(ch).toFixed(2)+'%':''}</span></span>`}
 async function loadTicker(){
  const el=document.getElementById('tickerTrack');
  try{
