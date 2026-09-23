@@ -1,0 +1,2 @@
+# Market ticker update
+Upload the contents of this package into the repository root. The workflow runs hourly and updates `data/market_data.json`. The existing static Pages workflow will then republish the site.
