@@ -7,6 +7,7 @@ from curl_cffi import requests
 # Equities: Yahoo. Confirmed correction: Outcrop is TSX -> OCG.TO.
 EQUITIES=[
 ("Outcrop Silver","OCG.TO","TSX: OCG","CAD"),
+("Atico Mining","ATY.V","TSXV: ATY","CAD"),
 ("Collective Mining","CNL","NYSE: CNL","USD"),
 ("Orosur Mining","OMI.V","TSXV: OMI","CAD"),
 ("Max Resource","MAX.V","TSXV: MAX","CAD"),
