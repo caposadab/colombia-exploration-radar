@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-09-23T16:13:13.405168+00:00",
+  "updated_at": "2026-09-23T16:22:44.808528+00:00",
   "items": [
     {
       "name": "GOLD",
       "symbol": "GC=F",
       "displaySymbol": "GOLD",
       "currency": "USD",
-      "price": 4315.60009765625,
-      "changePercent": -1.3892652875469422
+      "price": 4320.0,
+      "changePercent": -2.3706750435038
     },
     {
       "name": "SILVER",
       "symbol": "SI=F",
       "displaySymbol": "SILVER",
       "currency": "USD",
-      "price": 64.9800033569336,
-      "changePercent": -1.443905631660113
+      "price": 65.06,
+      "changePercent": -2.2477312338481807
     },
     {
       "name": "COPPER",
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 6.764500141143799,
-      "changePercent": 0.07397166093890678
+      "price": 6.766,
+      "changePercent": 2.2826908541194224
     },
     {
       "name": "ZINC",
       "symbol": "ZNC=F",
       "displaySymbol": "ZINC",
       "currency": "USD",
-      "price": 4193.5,
-      "changePercent": 0.0
+      "price": 4050.0,
+      "changePercent": -3.4219625611064743
     },
     {
       "name": "LEAD",
@@ -54,8 +54,8 @@
       "symbol": "MTF=F",
       "displaySymbol": "COAL",
       "currency": "USD",
-      "price": null,
-      "changePercent": null
+      "price": 104.75,
+      "changePercent": 8.324715615305065
     },
     {
       "name": "NICKEL",
@@ -78,136 +78,136 @@
       "symbol": "CNL",
       "displaySymbol": "NYSE: CNL",
       "currency": "USD",
-      "price": 12.989999771118164,
-      "changePercent": 0.5417933003936786
+      "price": 12.99,
+      "changePercent": 5.781758957654731
     },
     {
       "name": "Orosur Mining",
       "symbol": "OMI.V",
       "displaySymbol": "TSXV: OMI",
       "currency": "CAD",
-      "price": 0.29499998688697815,
-      "changePercent": -29.761905691115526
+      "price": 0.298,
+      "changePercent": -19.459459459459463
     },
     {
       "name": "Max Resource",
       "symbol": "MAX.V",
       "displaySymbol": "TSXV: MAX",
       "currency": "CAD",
-      "price": 0.22499999403953552,
-      "changePercent": -6.250000388051082
+      "price": 0.225,
+      "changePercent": 2.2727272727272747
     },
     {
       "name": "Quimbaya Gold",
       "symbol": "QIM.CN",
       "displaySymbol": "CSE: QIM",
       "currency": "CAD",
-      "price": 0.4000000059604645,
-      "changePercent": 1.265821543245696
+      "price": 0.4,
+      "changePercent": 14.285714285714299
     },
     {
       "name": "Tiger Gold",
       "symbol": "TIGR.V",
       "displaySymbol": "TSXV: TIGR",
       "currency": "CAD",
-      "price": 0.7200000286102295,
-      "changePercent": -7.692300638503319
+      "price": 0.72,
+      "changePercent": -2.7027027027027053
     },
     {
       "name": "Royal Road Minerals",
       "symbol": "RYR.V",
       "displaySymbol": "TSXV: RYR",
       "currency": "CAD",
-      "price": 0.20000000298023224,
-      "changePercent": 0.0
+      "price": 0.2,
+      "changePercent": 5.263157894736847
     },
     {
       "name": "Andina Copper",
       "symbol": "ANDC.V",
       "displaySymbol": "TSXV: ANDC",
       "currency": "CAD",
-      "price": 1.3200000524520874,
-      "changePercent": 10.0
+      "price": 1.31,
+      "changePercent": 8.264462809917363
     },
     {
       "name": "Copper Giant Resources",
       "symbol": "CGNT.V",
       "displaySymbol": "TSXV: CGNT",
       "currency": "CAD",
-      "price": 1.3200000524520874,
-      "changePercent": 1.53846929764635
+      "price": 1.32,
+      "changePercent": 15.789473684210542
     },
     {
       "name": "Terra Rossa Gold",
       "symbol": "TRR.V",
       "displaySymbol": "TSXV: TRR",
       "currency": "CAD",
-      "price": 0.3400000035762787,
-      "changePercent": 0.0
+      "price": 0.34,
+      "changePercent": 6.250000000000005
     },
     {
       "name": "Mineros",
       "symbol": "MSA.TO",
       "displaySymbol": "TSX: MSA",
       "currency": "CAD",
-      "price": 9.710000038146973,
-      "changePercent": 0.10309514513891053
+      "price": 9.7,
+      "changePercent": 9.234234234234217
     },
     {
       "name": "Aris Mining",
       "symbol": "ARIS.TO",
       "displaySymbol": "TSX: ARIS",
       "currency": "CAD",
-      "price": 26.270000457763672,
-      "changePercent": -1.49981108881143
+      "price": 26.33,
+      "changePercent": 3.417124901806746
     },
     {
       "name": "Soma Gold",
       "symbol": "SOMA.V",
       "displaySymbol": "TSXV: SOMA",
       "currency": "CAD",
-      "price": 0.7400000095367432,
-      "changePercent": 5.714288876981205
+      "price": 0.74,
+      "changePercent": 8.823529411764696
     },
     {
       "name": "AngloGold Ashanti",
       "symbol": "AU",
       "displaySymbol": "NYSE: AU",
       "currency": "USD",
-      "price": 98.61499786376953,
-      "changePercent": -3.2522343093115067
+      "price": 98.63,
+      "changePercent": -1.1128935231602162
     },
     {
       "name": "Glencore",
       "symbol": "GLNCY",
       "displaySymbol": "OTC: GLNCY",
       "currency": "USD",
-      "price": 14.569999694824219,
-      "changePercent": 0.6910810362821334
+      "price": 14.58,
+      "changePercent": -5.016286644951137
     },
     {
       "name": "Zijin Mining",
       "symbol": "2899.HK",
       "displaySymbol": "HKEX: 2899",
       "currency": "HKD",
-      "price": 34.02000045776367,
-      "changePercent": -0.5844557446083681
+      "price": 33.58,
+      "changePercent": -2.440441603718778
     },
     {
       "name": "South32",
       "symbol": "S32.AX",
       "displaySymbol": "ASX: S32",
       "currency": "AUD",
-      "price": 4.909999847412109,
-      "changePercent": 0.6147486120423657
+      "price": 4.91,
+      "changePercent": -1.9960079840319291
     },
     {
       "name": "Denarius Metals",
-      "symbol": "DNRSF",
-      "displaySymbol": "OTCQX: DNRSF",
-      "currency": "USD",
-      "price": 0.4449999928474426,
-      "changePercent": -1.722617652202295
+      "symbol": "DMET.NE",
+      "displaySymbol": "Cboe CA: DMET",
+      "currency": "CAD",
+      "price": 0.62,
+      "changePercent": 0.0
     }
   ]
 }
