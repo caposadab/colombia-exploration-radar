@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T16:31:14.226911+00:00",
+  "updated_at": "2026-09-27T17:29:13.931515+00:00",
   "items": [
     {
       "name": "GOLD",
@@ -33,8 +33,8 @@
       "symbol": "ZNC=F",
       "displaySymbol": "ZINC",
       "currency": "USD",
-      "price": 4050.0,
-      "changePercent": -3.4219625611064743,
+      "price": 4193.5,
+      "changePercent": 0.0,
       "source": "Yahoo"
     },
     {
