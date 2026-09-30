@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-30T15:36:43.052653+00:00",
+  "updated_at": "2026-09-30T16:35:27.176782+00:00",
   "items": [
     {
       "name": "GOLD",
       "symbol": "GC=F",
       "displaySymbol": "GOLD",
       "currency": "USD",
-      "price": 4186.0,
-      "changePercent": -3.1287605294825473,
+      "price": 4193.4,
+      "changePercent": -2.95751180227715,
       "source": "Yahoo"
     },
     {
@@ -15,8 +15,8 @@
       "symbol": "SI=F",
       "displaySymbol": "SILVER",
       "currency": "USD",
-      "price": 60.49,
-      "changePercent": -5.844812825900852,
+      "price": 60.68,
+      "changePercent": -5.549069966534368,
       "source": "Yahoo"
     },
     {
@@ -24,8 +24,8 @@
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 6.6115,
-      "changePercent": -1.254573967590167,
+      "price": 6.6235,
+      "changePercent": -1.0753491150772918,
       "source": "Yahoo"
     },
     {
@@ -96,8 +96,8 @@
       "symbol": "CNL",
       "displaySymbol": "NYSE: CNL",
       "currency": "USD",
-      "price": 12.43,
-      "changePercent": -6.046863189720337,
+      "price": 12.36,
+      "changePercent": -6.575963718820869,
       "source": "Yahoo"
     },
     {
@@ -114,8 +114,8 @@
       "symbol": "MAX.V",
       "displaySymbol": "TSXV: MAX",
       "currency": "CAD",
-      "price": 0.205,
-      "changePercent": -10.869565217391314,
+      "price": 0.22,
+      "changePercent": -4.347826086956525,
       "source": "Yahoo"
     },
     {
@@ -123,8 +123,8 @@
       "symbol": "QIM.CN",
       "displaySymbol": "CSE: QIM",
       "currency": "CAD",
-      "price": 0.37,
-      "changePercent": -6.329113924050639,
+      "price": 0.36,
+      "changePercent": -8.860759493670892,
       "source": "Yahoo"
     },
     {
@@ -132,8 +132,8 @@
       "symbol": "TIGR.V",
       "displaySymbol": "TSXV: TIGR",
       "currency": "CAD",
-      "price": 0.68,
-      "changePercent": -11.688311688311684,
+      "price": 0.69,
+      "changePercent": -10.389610389610398,
       "source": "Yahoo"
     },
     {
@@ -150,8 +150,8 @@
       "symbol": "ANDC.V",
       "displaySymbol": "TSXV: ANDC",
       "currency": "CAD",
-      "price": 1.15,
-      "changePercent": -10.156250000000009,
+      "price": 1.14,
+      "changePercent": -10.937500000000009,
       "source": "Yahoo"
     },
     {
@@ -159,8 +159,8 @@
       "symbol": "CGNT.V",
       "displaySymbol": "TSXV: CGNT",
       "currency": "CAD",
-      "price": 1.18,
-      "changePercent": -11.940298507462696,
+      "price": 1.175,
+      "changePercent": -12.313432835820898,
       "source": "Yahoo"
     },
     {
@@ -177,8 +177,8 @@
       "symbol": "MSA.TO",
       "displaySymbol": "TSX: MSA",
       "currency": "CAD",
-      "price": 9.73,
-      "changePercent": 0.6204756980351654,
+      "price": 9.77,
+      "changePercent": 1.03412616339193,
       "source": "Yahoo"
     },
     {
@@ -186,8 +186,8 @@
       "symbol": "ARIS.TO",
       "displaySymbol": "TSX: ARIS",
       "currency": "CAD",
-      "price": 24.92,
-      "changePercent": -6.280556600225642,
+      "price": 24.99,
+      "changePercent": -6.017299736743142,
       "source": "Yahoo"
     },
     {
@@ -204,8 +204,8 @@
       "symbol": "AU",
       "displaySymbol": "NYSE: AU",
       "currency": "USD",
-      "price": 93.595,
-      "changePercent": -5.2106542434676895,
+      "price": 93.96,
+      "changePercent": -4.840996556613329,
       "source": "Yahoo"
     },
     {
@@ -213,8 +213,8 @@
       "symbol": "GLNCY",
       "displaySymbol": "OTC: GLNCY",
       "currency": "USD",
-      "price": 14.69,
-      "changePercent": 0.892857142857136,
+      "price": 14.68,
+      "changePercent": 0.8241758241758188,
       "source": "Yahoo"
     },
     {
@@ -240,8 +240,8 @@
       "symbol": "DMET.NE",
       "displaySymbol": "Cboe CA: DMET",
       "currency": "CAD",
-      "price": 0.57,
-      "changePercent": -12.307692307692317,
+      "price": 0.58,
+      "changePercent": -10.769230769230779,
       "source": "Yahoo"
     }
   ]
