@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-12T15:41:58.466302+00:00",
+  "updated_at": "2026-10-12T16:37:02.207072+00:00",
   "items": [
     {
       "name": "GOLD",
       "symbol": "GC=F",
       "displaySymbol": "GOLD",
       "currency": "USD",
-      "price": 4190.9,
-      "changePercent": 1.2123553988456015,
+      "price": 4187.8,
+      "changePercent": 1.1374888303910056,
       "source": "Yahoo"
     },
     {
@@ -15,8 +15,8 @@
       "symbol": "SI=F",
       "displaySymbol": "SILVER",
       "currency": "USD",
-      "price": 60.595,
-      "changePercent": 1.1619559591979798,
+      "price": 60.605,
+      "changePercent": 1.1786507287266832,
       "source": "Yahoo"
     },
     {
@@ -24,8 +24,8 @@
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 6.751,
-      "changePercent": 2.349909035779264,
+      "price": 6.752,
+      "changePercent": 2.365069739235896,
       "source": "Yahoo"
     },
     {
@@ -96,8 +96,8 @@
       "symbol": "CNL",
       "displaySymbol": "NYSE: CNL",
       "currency": "USD",
-      "price": 12.015,
-      "changePercent": -0.7844756399669601,
+      "price": 12.11,
+      "changePercent": 0.0,
       "source": "Yahoo"
     },
     {
@@ -204,8 +204,8 @@
       "symbol": "AU",
       "displaySymbol": "NYSE: AU",
       "currency": "USD",
-      "price": 93.495,
-      "changePercent": -1.0425486875529206,
+      "price": 93.575,
+      "changePercent": -0.9578746824724821,
       "source": "Yahoo"
     },
     {
@@ -213,8 +213,8 @@
       "symbol": "GLNCY",
       "displaySymbol": "OTC: GLNCY",
       "currency": "USD",
-      "price": 15.45,
-      "changePercent": 2.5215660252156535,
+      "price": 15.5,
+      "changePercent": 2.8533510285335084,
       "source": "Yahoo"
     },
     {
