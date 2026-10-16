@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-16T20:49:23.913216+00:00",
+  "updated_at": "2026-10-16T21:47:49.162148+00:00",
   "items": [
     {
       "name": "GOLD",
       "symbol": "GC=F",
       "displaySymbol": "GOLD",
       "currency": "USD",
-      "price": 4188.9,
-      "changePercent": -0.040566983248239576,
+      "price": 4186.7,
+      "changePercent": -0.09306543215769926,
       "source": "Yahoo"
     },
     {
@@ -15,8 +15,8 @@
       "symbol": "SI=F",
       "displaySymbol": "SILVER",
       "currency": "USD",
-      "price": 57.16,
-      "changePercent": -4.956685123293596,
+      "price": 57.135,
+      "changePercent": -4.998254102858284,
       "source": "Yahoo"
     },
     {
@@ -24,8 +24,8 @@
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 6.5635,
-      "changePercent": -2.015376576845559,
+      "price": 6.562,
+      "changePercent": -2.037769649921622,
       "source": "Yahoo"
     },
     {
