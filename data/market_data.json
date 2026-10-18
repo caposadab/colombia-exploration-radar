@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:46:51.845511+00:00",
+  "updated_at": "2026-10-18T17:42:46.232243+00:00",
   "items": [
     {
       "name": "GOLD",
@@ -240,8 +240,8 @@
       "symbol": "DMET.NE",
       "displaySymbol": "Cboe CA: DMET",
       "currency": "CAD",
-      "price": 0.59,
-      "changePercent": 9.259259259259247,
+      "price": 0.57,
+      "changePercent": 5.555555555555539,
       "source": "Yahoo"
     }
   ]
