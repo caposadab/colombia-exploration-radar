@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:29:33.401379+00:00",
+  "updated_at": "2026-10-25T21:54:51.587323+00:00",
   "items": [
     {
       "name": "GOLD",
@@ -24,8 +24,8 @@
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 6.508,
-      "changePercent": -0.8984315516978859,
+      "price": 6.5075,
+      "changePercent": -0.8984999619279568,
       "source": "Yahoo"
     },
     {
