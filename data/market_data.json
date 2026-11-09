@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-09T02:43:15.092922+00:00",
+  "updated_at": "2026-11-09T11:44:44.432457+00:00",
   "items": [
     {
       "name": "GOLD",
       "symbol": "GC=F",
       "displaySymbol": "GOLD",
       "currency": "USD",
-      "price": 4136.0,
-      "changePercent": 4.963963049436603,
+      "price": 4115.9,
+      "changePercent": 1.0532776822980514,
       "source": "Yahoo"
     },
     {
@@ -15,8 +15,8 @@
       "symbol": "SI=F",
       "displaySymbol": "SILVER",
       "currency": "USD",
-      "price": 53.195,
-      "changePercent": 7.2761005908806675,
+      "price": 52.745,
+      "changePercent": 1.1991557943207982,
       "source": "Yahoo"
     },
     {
@@ -24,8 +24,8 @@
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 6.336,
-      "changePercent": -0.6663008544328531,
+      "price": 6.3385,
+      "changePercent": -1.007340309230045,
       "source": "Yahoo"
     },
     {
@@ -222,8 +222,8 @@
       "symbol": "2899.HK",
       "displaySymbol": "HKEX: 2899",
       "currency": "HKD",
-      "price": 29.18,
-      "changePercent": 7.121879588839946,
+      "price": 28.74,
+      "changePercent": 5.506607929515419,
       "source": "Yahoo"
     },
     {
@@ -231,8 +231,8 @@
       "symbol": "S32.AX",
       "displaySymbol": "ASX: S32",
       "currency": "AUD",
-      "price": 4.61,
-      "changePercent": 6.466512702078528,
+      "price": 4.59,
+      "changePercent": 6.004618937644337,
       "source": "Yahoo"
     },
     {
