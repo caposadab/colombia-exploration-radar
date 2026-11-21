@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T02:29:14.061709+00:00",
+  "updated_at": "2026-11-21T11:18:03.314010+00:00",
   "items": [
     {
       "name": "GOLD",
       "symbol": "GC=F",
       "displaySymbol": "GOLD",
       "currency": "USD",
-      "price": 3539.0,
-      "changePercent": -8.149493900856475,
+      "price": 3515.4,
+      "changePercent": -8.76200363353231,
       "source": "Yahoo"
     },
     {
@@ -15,8 +15,8 @@
       "symbol": "SI=F",
       "displaySymbol": "SILVER",
       "currency": "USD",
-      "price": 41.08,
-      "changePercent": -12.194079298920592,
+      "price": 41.07,
+      "changePercent": -12.215453671048406,
       "source": "Yahoo"
     },
     {
@@ -24,8 +24,8 @@
       "symbol": "HG=F",
       "displaySymbol": "COPPER",
       "currency": "USD",
-      "price": 5.465,
-      "changePercent": -8.878699458107542,
+      "price": 5.485,
+      "changePercent": -8.545227177990817,
       "source": "Yahoo"
     },
     {
@@ -240,8 +240,8 @@
       "symbol": "DMET.NE",
       "displaySymbol": "Cboe CA: DMET",
       "currency": "CAD",
-      "price": 0.355,
-      "changePercent": -29.000000000000004,
+      "price": 0.375,
+      "changePercent": -25.0,
       "source": "Yahoo"
     }
   ]
